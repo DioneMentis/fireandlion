@@ -2,7 +2,7 @@
 title: "Logo design"
 excerpt: "A great logo design needs to be clever as well as beautiful. It is the foundation of a visual identity and needs to capture the essence of a brand."
 category: branding
-image: logo-watershed-feature.jpg
+image: logo-motivation-co-feature.jpg
 order: 30
 ---
 
