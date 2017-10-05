@@ -28,7 +28,9 @@ order: 5
 
 Strictly speaking, the excerpt, image and order are optional, in that the post will still appear without them; but make sure you include them for a good quality post.
 
-The available categories are defined in _data/categories.yml`._
+The available categories are defined in _data/categories.yml`.
+
+On the main portfolio page, set which categories show on the page in the YAML frontmatter of `portfolio.md`, as `show-categories`.
 
 ### Thinking posts
 
@@ -60,6 +62,17 @@ To create a caption for an image, insert a markdown image inline in a paragraph,
 ![Great Expectations]({{ site.baseurl }}/images/great-expectations.jpg)
 The cover of Great Expectations
 {:.image-with-caption}
+```
+
+#### Gallery
+
+To create a gallery of images that tiles on the page, add all the images one after the other, each on a new line. Then add a `{:.gallery}` tag on the last line after the images.
+
+```
+![The Park]({{site.baseurl}}/images/the-park.jpg)
+![Ties that Bind]({{site.baseurl}}/images/ties-that-bind.jpg)
+![We, the People]({{site.baseurl}}/images/we-the-people.jpg)
+{:.gallery}
 ```
 
 ### Drafts
