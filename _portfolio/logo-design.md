@@ -24,11 +24,4 @@ A great logo design needs to be clever as well as beautiful. It is the foundatio
 ![SAMod]({{site.baseurl}}/images/logo-sa-mod.jpg)
 ![Raconteur]({{site.baseurl}}/images/logo-raconteur.jpg)
 ![Heritage Plaque]({{site.baseurl}}/images/logo-hpp.jpg)
-{:.gallery}
-
-
-
-
-
-
-
+{:.gallery-larger}

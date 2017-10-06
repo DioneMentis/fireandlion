@@ -75,6 +75,8 @@ To create a gallery of images that tiles on the page, add all the images one aft
 {:.gallery}
 ```
 
+By default, a gallery fits three images in a row on a large screen. To get two, larger images per row, use `{:.gallery-larger}` instead of `{:.gallery}`.
+
 ### Drafts
 
 You can keep unfinished drafts of posts in `_drafts`.
