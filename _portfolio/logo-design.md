@@ -2,7 +2,8 @@
 title: "Logo design"
 excerpt: "A great logo design needs to be clever as well as beautiful. It is the foundation of a visual identity and needs to capture the essence of a brand."
 category: branding
-image: logo-motivation-co-feature.jpg
+image: logo_hybrid-cards.jpg
+
 order: 30
 ---
 
@@ -21,7 +22,7 @@ A great logo design needs to be clever as well as beautiful. It is the foundatio
 ![The Motivation Company]({{site.baseurl}}/images/logo-motivation-co.jpg)
 ![Electric Book Works]({{site.baseurl}}/images/logo-ebw.jpg)
 ![Oxlflo]({{site.baseurl}}/images/logo-oxflo.jpg)
-![SAMod]({{site.baseurl}}/images/logo-sa-mod.jpg)
+![SAMod]({{site.baseurl}}/images/logo-hybrid.jpg)
 ![Raconteur]({{site.baseurl}}/images/logo-raconteur.jpg)
 ![Heritage Plaque]({{site.baseurl}}/images/logo-hpp.jpg)
 {:.gallery-larger}
