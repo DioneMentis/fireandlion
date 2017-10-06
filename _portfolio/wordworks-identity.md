@@ -4,6 +4,7 @@ excerpt: "Wordworks is a South African non-profit organisation that focuses on e
 category: branding
 image: logo-wordworks.jpg
 order: 32
+published: false
 ---
 
 # Conceptual simplicity
