@@ -1,15 +1,14 @@
 ---
 title: "Logo design"
-excerpt: "A great logo design needs to be clever as well as beautiful. It is the foundation of a visual identity and needs to capture the essence of a brand."
+excerpt: "A great logo should be clever as well as beautiful. It is the foundation of a brand identity and must capture its essence."
 category: branding
 image: logo_hybrid-cards.jpg
-
 order: 30
 ---
 
 # An image is worth a&nbsp;thousand&nbsp;words
 
-A great logo design needs to be clever as well as beautiful. It is the foundation of a visual identity and needs to capture the essence of a brand.
+A great logo should be clever as well as beautiful. It is the foundation of a brand identity and must capture its essence.
 
 ![The Watershed]({{site.baseurl}}/images/logo-watershed.jpg)
 ![Koruza]({{site.baseurl}}/images/logo-koruza.jpg)
