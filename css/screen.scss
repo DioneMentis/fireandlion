@@ -23,7 +23,7 @@ $sidebar-width: 10em;
 $font-main: "Crimson Text", serif; // https://fonts.google.com/specimen/Crimson+Text
 $font-secondary: "Josefin Sans", sans-serif; // https://fonts.google.com/specimen/Josefin+Sans
 
-@import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,600|Josefin+Sans:600&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,600,600i|Josefin+Sans:600&subset=latin-ext');
 
 // Palette
 $dark: #000000;
@@ -152,6 +152,19 @@ body {
 .page-info {
 	p {
 		font-style: italic;
+		&.page-info-portfolio {
+			text-transform: lowercase;
+			&:before {
+				content: "In ";
+				text-transform: none;
+			}
+		}
+	}
+	a {
+		border-color: transparent;
+		&:hover {
+			border-color: $dark;
+		}
 	}
 }
 
@@ -168,13 +181,10 @@ body {
 // Page navigation
 
 .page-navigation {
-	display: flex;
-	justify-content: space-between;
 	font-style: italic;
     font-size: 0.9em;
-    letter-spacing: 0.01em;
-    width: 90%;
-    margin: auto;
+	letter-spacing: 0.01em;
+	// padding: 0 2em;
 	a {
 		text-decoration: none;
 		color: inherit;
@@ -183,39 +193,57 @@ body {
 		& span:hover {
 			border-bottom: 1px dashed $dark;
 		}
+		// reserve space for the dark border-bottom
+		& span,
 		& .previous-arrow:hover,
 		& .next-arrow:hover {
 			border-bottom: 1px dashed $light;
 		}
 	}
-	.previous {
-		width: 50%;
-	}
-	.next {
-		width: 50%;
-		text-align: right;
-	}
-	.previous-arrow {
-		font-style: normal;
-		margin: -0.15em 0.5em 0 0;
-	}
-	.next-arrow {
-		font-style: normal;
-		margin: -0.15em 0 0 0.5em;
+	.page-navigation-prev-next {
+		display: flex;
+		justify-content: space-between;
+	    margin: auto;
+		.previous {
+			width: 50%;
+			padding-right: 0.5em;
+		}
+		.next {
+			width: 50%;
+			text-align: right;
+			padding-left: 0.5em;
+		}
+		.previous-arrow {
+			font-style: normal;
+			margin: -0.15em 0.5em 0 0;
+		}
+		.next-arrow {
+			font-style: normal;
+			margin: -0.15em 0 0 0.5em;
+		}
 	}
 	.page-navigation-categories {
 		margin: auto;
+		@include smallcaps();
+		font-style: normal;
+		font-weight: normal;
 		.page-navigation-categories-list {
 			list-style-type: none;
 			display: flex;
 			flex-wrap: wrap;
-			justify-content: space-around;
+			justify-content: space-between;
+			text-align: center;
 			li {
-				display: inline-block;
-				margin-right: 1em;
+				flex-basis: 8em; // keeps the cats side by side
+				width: 8em;
+				margin: 0 auto 0.5em auto;
 			}
-			a:hover {
-				border-bottom: 1px dashed $dark;
+			a {
+				padding: 0 0 0.25em 0; // reserve space for padding on hover
+				&:hover {
+					border-bottom: 1px dashed $dark;
+					padding: 0 0 0.25em 0;
+				}
 			}
 		}
 	}
@@ -455,7 +483,8 @@ td {
 // To create a gallery of images, put images one after the other 
 // in a paragraph and tag the paragraph {:.gallery}
 
-.gallery {
+.gallery,
+.gallery-larger {
 	display: flex;
 	flex-wrap: wrap;
 	align-items: flex-start;
@@ -466,6 +495,24 @@ td {
 	}
 	a {
 		border: 0;
+	}
+}
+.gallery-larger {
+	img {
+		width: 15em;
+		flex: 1 0 15em;
+	}
+}
+
+// Team bios
+
+.bio {
+	margin-top: 1em;
+	margin-bottom: 2em;
+	img {
+		max-width: 5em;
+		float: right;
+		margin-top: -1em;
 	}
 }
 
@@ -554,11 +601,47 @@ td {
 			position: absolute;
 			top: 7.5em; // just above the heading
 			p {
+				// override base, mobile-first styles
 				@include smallcaps();
-				font-style: normal; // override base, mobile-first styles
+				font-style: normal;
+				&.page-info-portfolio {
+					@include smallcaps();
+					&:before {
+						content: normal;
+						text-transform: none;
+					}
+				}
 			}
 		}
 		.footer {
 			margin: 0 0 0 ($sidebar-width + 4em);
 		}
 	}
+
+@media print { 
+	.sidebar {
+		background-color: white;
+		.name {
+			color: black;
+			font-size: 2em;
+		}
+		.nav-list {
+			display: none;
+		}
+	}
+	.footer {
+		display: none;
+	}
+	.post-excerpt-text-more {
+		display: none!important; // overrides more specific inline-block
+	}
+	a {
+		border-color: transparent!important; // overrides more specific inline-block
+		&.button {
+			display: none;
+		}
+	}
+	#markdown-toc {
+		display: none;
+	}
+}
