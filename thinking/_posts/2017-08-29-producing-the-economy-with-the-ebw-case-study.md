@@ -20,7 +20,7 @@ The CORE project – specifically, the production of their textbook *The Economy
 
 For over fifteen years, book-makers like me have been pulled in two directions: you're a print person or you're a digital person. This is largely a practical matter: the skills and tools for each have been completely different. Which meant the workflows for creating each format were completely different, as were their distribution channels. In most publishing companies, digital teams are still separated from print-production teams, and often this separation breeds in each team a measure of suspicion and anxiety about the other.
 
-So the practical matter of skills has framed the evolution of publishing as 'print vs digital', when of course the conversation should be about print *and* digital. Not just because we're stuck with a multiformat world whether we like it or not, but because print and digital formats are symbiotic. In ambitious book projects, especially where we want a book to have a social impact, neither can be successful without the other.
+So the practical matter of skills has framed the evolution of publishing as 'print vs digital', when of course the conversation should be about print *and* digital. Not just because we're stuck with a multi-format world whether we like it or not, but because print and digital formats are symbiotic. In ambitious book projects, especially where we want a book to have a social impact, neither can be successful without the other.
 
 Print books generate instant credibility. They carry a sense of permanence and authority that digital formats cannot muster.
 
