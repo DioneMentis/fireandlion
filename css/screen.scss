@@ -356,6 +356,14 @@ hr {
 	margin: 3em auto;
 }
 
+// Text features
+
+.pullquote {
+	font-size: 1em * $line-height;
+	padding: 1em;
+	margin-bottom: 1em;
+}
+
 // Buttons
 
 a.button {
