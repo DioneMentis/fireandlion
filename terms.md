@@ -30,7 +30,7 @@ Some elements in your project are yours, and some are Fire and Lion's:
 
 -	You retain the copyright in all material (e.g. text and illustrations) that you own and provide for the work; and you retain all overarching licenses that allow you to enter into this agreement as the owner of the work.
 -	Fire and Lion retains copyright in the elements it provides for the work from its own resources (e.g. design, get-up, computer code, and text and illustrations that don’t form part of the source material provided by you).
--	Where Fire and Lion (or anyone we commission) creates specific elements (e.g. designs, images, text) that you have specified and commissioned, as detailed in the project specification, and they are fully paid for, we share the copyright in those elements unless the project specification explicitly states otherwise. 
+-	Where Fire and Lion (or anyone we commission) creates specific elements (e.g. designs, images, text) that you have specified and commissioned, as detailed in the project specification, and they are fully paid for, we share the copyright in those elements unless the project specification explicitly states otherwise, or we sign a separate assignment agreement.
 
 Fire and Lion may publicly display samples of the work as part of Fire and Lion’s portfolio of work, after publication and as long as those samples would not reasonably affect your interests (e.g. sales of the finished work). 
 
@@ -127,7 +127,7 @@ If a court decides that part of this agreement is not valid, that decision does 
 
 If we have any disputes, we will resolve them first through direct discussion, then arbitration if absolutely necessary. We will agree on the arbitrator. The dispute will be resolved finally by the arbitrator, whose decision will be binding. During a dispute, you will continue to pay for ongoing maintenance services.
 
-This is the only agreement we have between us regarding the work. It replaces and supersedes any other agreements. 
+This is the only agreement we have between us regarding the work, replacing and superseding any other agreements unless those other agreements are subject to this one, made in writing, and signed by both parties. In the event of a conflict between this agreement and another agreement, this agreement takes precedence.
 
 This agreement is subject to the laws of the Republic of South Africa.
 
