@@ -342,6 +342,14 @@ blockquote {
 blockquote p, blockquote ol, blockquote ul {
 	font-style: italic;
 }
+dl {
+	dt {
+		font-style: italic;
+	}
+	dd {
+		margin-bottom: 1em * $line-height;
+	}
+}
 strong {
 	font-weight: 600;
 	@include smallcaps();
@@ -400,6 +408,7 @@ a.button:hover {
 table {
 	width: 100%;
 	border-collapse: collapse;
+	margin-bottom: 1em * $line-height;
 }
 tr {
 	border-top: 1px dashed $dark;
@@ -633,6 +642,7 @@ td {
 @media print { 
 	.sidebar {
 		background-color: white;
+		box-shadow: none;
 		.name {
 			color: black;
 			font-size: 2em;
