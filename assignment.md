@@ -33,7 +33,7 @@ Intellectual Property Rights
 
 ### Assignment
 
-In consideration of the final settlement of all invoices and monies owed to Fire and Lion in respect of the Project, Fire and Lion hereby assigns to the Assignee absolutely with full title guarantee all its right, title and interest in and to the Assigned Rights.
+In consideration of the final settlement of all invoices and monies owed to Fire and Lion in respect of the Work, Fire and Lion hereby assigns to the Assignee absolutely with full title guarantee all its right, title and interest in and to the Assigned Rights.
 
 ### Effective date
 
