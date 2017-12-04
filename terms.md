@@ -32,32 +32,34 @@ Some elements in your project are yours, and some are Fire and Lion's:
 
 Fire and Lion may publicly display samples of the work as part of Fire and Lion’s portfolio of work, after publication and as long as those samples would not reasonably affect your interests (e.g. sales of the finished work). 
 
-## Writing and production
+## Source material and warranties
 
 By an agreed date, you will provide all the original material (including, for example, text and illustrations or clear briefs for their creation) for the work. Fire and Lion will produce project deliverables within an agreed amount of time. These dates and times are noted in each project specification and/or on shared project-management systems.
 
 If you borrow material belonging to others, you will give Fire and Lion copies of the written permission obtained to use it. If the borrowed material can be used under an appropriate open licence (such as a Creative Commons Attribution licence), you will give Fire and Lion copies of the open-licence wording. You will keep a copy of everything you provide, and Fire and Lion will be careful to transport and store safely what they receive.
 
-You warrant that:
+We both warrant to each other that:
 
--	the material you provide is original (except material borrowed with permission or under an appropriate open licence)
+-	the material we provide is original (except material borrowed with permission or under an appropriate open licence)
 -	the material won’t impair anyone else’s rights
 -	the material is not defamatory or libellous
--	you have the power to make this agreement. 
+-	we have the power to make this agreement. 
 
 Material may include (and is not limited to) text, images, video, domain names, trademarks and computer code.
 
-You indemnify Fire and Lion, its agents and employees, and hold them harmless, against any loss or cost, including legal fees, arising out of a breach (or a claim of breach) of these warranties.
+Each of us indemnifies the other, their agents and employees, and hold them harmless, against any loss or cost, including legal fees, arising out of a breach (or a claim of breach) of these warranties.
 
-If Fire and Lion believes you have breached these warranties,  or you use material belonging to others without their permission, or in any other way plagiarise another’s intellectual property in preparing the work, Fire and Lion may decide not to continue with this project. If this happens, Fire and Lion may suspend all maintenance services and recover from you any costs already incurred, and may use any legal measures to do so.
+If one of us believes the other has breached these warranties, or uses material belonging to others without their permission, or in any other way plagiarises a third party's intellectual property in preparing the work, either of us may decide not to continue with this project. If this happens, Fire and Lion may suspend all maintenance services, and each of us may recover from the other any costs already incurred, and may use any legal measures to do so.
+
+## Review of work
 
 In the course of producing project deliverables, Fire and Lion may provide services that include editorial support, advice, and professional proofreading and illustration. Fire and Lion may edit, add to, and delete from the work, submitting changes to you for approval. You won’t unreasonably withhold approval, and will provide feedback promptly. 
 
 You will read the laid-out work carefully before the work is made public. You are responsible for ensuring the accuracy of all information when you create and check the work.
 
-**If Fire and Lion does not receive any feedback on a project deliverable within two weeks of delivery, the project deliverable is considered accepted and complete.** Fire and Lion may then charge a fee for any changes you make subsequently.
+**If Fire and Lion does not receive any feedback on a project deliverable within two weeks of delivery, or another time period agreed in writing, then the project deliverable is considered accepted and complete.** Fire and Lion may then charge a fee for any changes you make subsequently.
 
-Fire and Lion is responsible for devoting  its full available expertise to decisions about the production and design of the finished work. Fire and Lion will consult you about the design of the published work, but may need to make final decisions about design and production values according to what Fire and Lion reasonably believes is in your best interests.
+Fire and Lion is responsible for devoting its full available expertise to decisions about the production and design of the finished work. Fire and Lion will consult you about the design of the published work, but may need to make final decisions about design and production values according to what Fire and Lion reasonably believes is in your best interests.
 
 ## Payment
 
