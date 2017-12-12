@@ -29,7 +29,6 @@ Some elements in your project are yours, and some are Fire and Lion's:
 -	You retain the copyright in all material (e.g. text and illustrations) that you own and provide for the work; and you retain all overarching licenses that allow you to enter into this agreement as the owner of the work.
 -	Fire and Lion retains copyright in the elements it provides for the work from its own resources (e.g. design, get-up, computer code, and text and illustrations that don’t form part of the source material provided by you).
 -	Where Fire and Lion (or anyone we commission) creates specific deliverables or works, including composite works, (e.g. designs, images, text) that you have specified and commissioned, as detailed in the project specification, and they have been fully paid for and included in the finished work, you will be licensed to use them in their finished form on a perpetual, transferable, royalty-free basis, unless the project specification explicitly states otherwise or we sign a separate [assignment agreement]({{ site.baseurl }}/assignment).
--	Fire and Lion will not reuse elsewhere any work (such as design concepts, illustrations, and editorial contributions) not included in the finished work that substantially represent your ideas as they are expressed in the material that you own, except with your written permission.
 
 Fire and Lion may publicly display samples of the work as part of Fire and Lion’s portfolio of work, after publication and as long as those samples would not reasonably affect your interests (e.g. sales of the finished work). 
 
