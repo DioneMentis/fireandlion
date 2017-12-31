@@ -22,7 +22,7 @@ This agreement sets out the general terms and conditions of our working relation
 
 ## Copyright and licensing
 
-Unless expressly stated, neither of us is granting the other a license or exclusive right to the work we contribute to project deliverables. You are only contracting Fire and Lion to produce the deliverables noted in project specifications. 
+You are contracting Fire and Lion to produce the deliverables noted in project specifications. 
 
 Some elements in your project are yours, and some are Fire and Lion's:
 
