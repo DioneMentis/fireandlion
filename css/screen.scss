@@ -342,6 +342,14 @@ blockquote {
 blockquote p, blockquote ol, blockquote ul {
 	font-style: italic;
 }
+dl {
+	dt {
+		font-style: italic;
+	}
+	dd {
+		margin-bottom: 1em * $line-height;
+	}
+}
 strong {
 	font-weight: 600;
 	@include smallcaps();
@@ -400,6 +408,7 @@ a.button:hover {
 table {
 	width: 100%;
 	border-collapse: collapse;
+	margin-bottom: 1em * $line-height;
 }
 tr {
 	border-top: 1px dashed $dark;
@@ -410,6 +419,22 @@ th {
 }
 td {
 	padding-right: 0.5em;
+}
+
+// Inputs
+
+textarea {
+	width: 100%;
+	padding: 0.5em;
+	font-family: $font-main;
+	font-size: inherit;
+	border: 1px dashed $mid;
+}
+
+// For textarea include, in concert with textarea.js
+textarea.expanding {
+	min-height: 5em;
+	overflow:hidden;
 }
 
 // Images
@@ -633,6 +658,7 @@ td {
 @media print { 
 	.sidebar {
 		background-color: white;
+		box-shadow: none;
 		.name {
 			color: black;
 			font-size: 2em;
